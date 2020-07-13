@@ -1,0 +1,30 @@
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe.config
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.pdb
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csprojAssemblyReference.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Form1.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Properties.Resources.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.GenerateResource.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.CoreCompileInputs.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.pdb
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe.config
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.pdb
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csprojAssemblyReference.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Form1.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Properties.Resources.resources
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.GenerateResource.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.CoreCompileInputs.cache
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.exe
+C:\Users\Anas\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.pdb
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csprojAssemblyReference.cache
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Form1.resources
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.Properties.Resources.resources
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.GenerateResource.cache
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.csproj.CoreCompileInputs.cache
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.exe
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\obj\Debug\Palito.pdb
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe.config
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.exe
+C:\Users\felii\OneDrive - Complexo de Ensino Superior do Brasil LTDA\1º ANO\1º SEMESTRE\Fundamentos de Programação\2º Bimestre\Jogo do Palito\Palito\Palito\bin\Debug\Palito.pdb
